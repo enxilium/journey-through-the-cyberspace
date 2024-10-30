@@ -1,2 +1,1 @@
-# journey-through-the-cyberspace
-Submission for NewHacks 2024.
+This is one of jace's stupid ideas
